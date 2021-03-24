@@ -1,2 +1,2 @@
 # safeline
-waf  acl
+logs  acl
